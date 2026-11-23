@@ -1,7 +1,7 @@
 # content dump
 ### blender file
-* [Lain plush](https://github.com/Rifqi2007c/content-dump/tree/main/lain3d)
-* [Mili-k2](https://github.com/Rifqi2007c/content-dump/tree/main/mili-k2%20blender)
+* [Lain plush](https://github.com/Rifqi2007c/content-dump/tree/main/blender-asset/lain-plush)
+* [Mili-k2](https://github.com/Rifqi2007c/content-dump/tree/main/blender-asset/mili-k2)
 * [glorp](https://github.com/Rifqi2007c/content-dump/tree/main/blender-asset/glorp)
 ### voices of the void
 * 3D printer
