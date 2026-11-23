@@ -5,8 +5,8 @@
 * [glorp](https://github.com/Rifqi2007c/content-dump/tree/main/blender-asset/glorp)
 ### voices of the void
 * 3D printer
-  * [Lain plush](https://github.com/Rifqi2007c/content-dump/tree/main/printer/Lain_Plush)
-  * [Mili-k2 plush](https://github.com/Rifqi2007c/content-dump/tree/main/printer/Mili-k2)
+  * [Lain plush](https://github.com/Rifqi2007c/content-dump/tree/main/printer-3d-votv/Lain_Plush)
+  * [Mili-k2 plush](https://github.com/Rifqi2007c/content-dump/tree/main/printer-3d-votv/Mili-k2)
   * [glorp](https://github.com/Rifqi2007c/content-dump/tree/main/printer-3d-votv/glorp)
 ### minecraft
 * texture pack
